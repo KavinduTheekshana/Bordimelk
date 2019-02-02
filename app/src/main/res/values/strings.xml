@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bordime.lk</string>
+    <string name="btnSearch">SEARCH</string>
+    <string name="btnPostAdd">POST ADD</string>
+    <string name="txtusername">Username</string>
+    <string name="txtpassword">●●●●●●●</string>
+    <string name="btnLogin">Login</string>
+    <string name="ForgotYourPassword">Forgot Password</string>
+
+    <string name="SignUp">Signup</string>
+</resources>
