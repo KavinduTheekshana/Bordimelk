@@ -3,9 +3,21 @@
     <string name="btnSearch">SEARCH</string>
     <string name="btnPostAdd">POST ADD</string>
     <string name="txtusername">Username</string>
+    <string name="txtfirstname">First Name</string>
+    <string name="txtlastname">Last Name</string>
+    <string name="txtaddress">Address</string>
+    <string name="txtnic">NIC</string>
+    <string name="txtdob">DOB</string>
+    <string name="txtgender">Gender</string>
+    <string name="txtmale">Male</string>
+    <string name="txtfemale">Female</string>
+    <string name="txtcontact">Contact Number</string>
+    <string name="txtemail">E Mail</string>
     <string name="txtpassword">●●●●●●●</string>
-    <string name="btnLogin">Login</string>
+    <string name="txtpassword2">Password</string>
+    <string name="txtreenterpassword">Re Enter Password</string>
     <string name="ForgotYourPassword">Forgot Password</string>
-
-    <string name="SignUp">Signup</string>
+    <string name="btnSignUp">Signup</string>
+    <string name="btnLogin">Login</string>
+    <string name="title_activity_home">HomeActivity</string>
 </resources>

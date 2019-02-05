@@ -3,6 +3,7 @@
     <array name="preloaded_fonts" translatable="false">
         <item>@font/aguafina_script</item>
         <item>@font/montserrat</item>
+        <item>@font/montserratreg</item>
         <item>@font/noto_serif</item>
     </array>
 </resources>

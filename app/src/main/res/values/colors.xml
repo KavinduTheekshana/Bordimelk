@@ -4,6 +4,6 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="transparent">#00000000</color>
-
+    <color name="hint">#808080</color>
     <color name="colortetxbox">#FFF</color>
 </resources>
