@@ -7,20 +7,34 @@ import android.view.View;
 import android.widget.Button;
 
 public class SelectActivity extends AppCompatActivity {
-    private Button button;
+    private Button buttonSearch;
+    private Button buttonPostAdd;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_select);
 
-        button=(Button) findViewById(R.id.btnPostAdd);
-        button.setOnClickListener(new View.OnClickListener() {
+        buttonPostAdd=(Button) findViewById(R.id.btnPostAdd);
+        buttonPostAdd.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 openPostAdd();
             }
         });
+
+        buttonSearch=(Button) findViewById(R.id.btnSearch);
+        buttonSearch.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                openSearch();
+            }
+        });
+    }
+
+    private void openSearch() {
+        Intent intent = new Intent(this, SearchActivity.class);
+        startActivity(intent);
     }
 
     private void openPostAdd() {

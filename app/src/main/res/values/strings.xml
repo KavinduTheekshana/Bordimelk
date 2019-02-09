@@ -17,7 +17,15 @@
     <string name="txtpassword2">Password</string>
     <string name="txtreenterpassword">Re Enter Password</string>
     <string name="ForgotYourPassword">Forgot Password</string>
+    <string name="txtSearchByLocation">Search By Location</string>
+    <string name="txtRoomNumber">Search By Location</string>
+    <string name="txthouse">House</string>
     <string name="btnSignUp">Signup</string>
     <string name="btnLogin">Login</string>
     <string name="title_activity_home">HomeActivity</string>
+
+    <string-array name="name">
+        <item>safsd</item>
+        <item>safsd</item>
+    </string-array>
 </resources>
